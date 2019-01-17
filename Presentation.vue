@@ -1,14 +1,16 @@
 <template>
   <Keynote>
-    <TitleSlide title="Pace up with Vue">
+    <TitleSlide title="Kick-start your Vuetiful Journey">
       <Build>
-        <p>Basically! Getting  Started</p>
+        <p>A first day guide to Vue.js</p>
       </Build>
 
       <Build>
-        <p>Please fill this survey: https://goo.gl/S8VtrX</p>
+        <p>Please fill this survey: http://bit.ly/vuetiful</p>
       </Build>
     </TitleSlide>
+
+    <TitleSlide title="Who are you?" />
 
     <TitleSlide title="Who are we?" />
 
@@ -18,8 +20,6 @@
     <PhotoTitleSlide photo="//github.com/znck.png" vertical title="Rahul Kadyan">
       @znck0
     </PhotoTitleSlide>
-
-    <TitleSlide title="Who are you?" />
 
     <Slide center>
       <div style="display: flex; align-items: center; justify-content: center; height: 100vh"><img src="https://i.redd.it/dshl53i834411.png" /></div>
@@ -42,12 +42,12 @@
     <Slide>
       <Fit>
         <div>
-          <h1>Format:</h1>
+          <h1>Format</h1>
 
           <ul>
             <li>Learn</li>
             <li>Question</li>
-            <li>Practise</li>
+            <li>Practice</li>
           </ul>
         </div>
       </Fit>
@@ -55,7 +55,7 @@
 
     <Slide>
       <Fit>
-        <h1>Topics:</h1>
+        <h1>Topics</h1>
 
         <ul>
           <li>Vue basics</li>
