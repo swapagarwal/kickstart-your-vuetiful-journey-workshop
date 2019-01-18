@@ -209,7 +209,7 @@ export default {
     return {
       one: `
 <div id="app">
-  <h1 class="heading">Hello {{ name }}! Welcome to JSFoo.</h1>
+  <h1 class="heading">Hello {{ name }}! Welcome to VueBLR.</h1>
 </div>
 
 <script${'>'}
