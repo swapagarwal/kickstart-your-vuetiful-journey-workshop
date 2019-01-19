@@ -1,0 +1,24 @@
+{
+  "name": "kickstart-your-vuetiful-journey-workshop",
+  "version": "1.0.0",
+  "description": "A first-day guide to Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapagarwal/kickstart-your-vuetiful-journey-workshop.git"
+  },
+  "author": "Swapnil Agarwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swapagarwal/kickstart-your-vuetiful-journey-workshop/issues"
+  },
+  "homepage": "https://github.com/swapagarwal/kickstart-your-vuetiful-journey-workshop#readme",
+  "dependencies": {
+    "@keynote/cli": "^1.1.4",
+    "vue": "^2.5.22",
+    "vue-keynote": "^1.1.4"
+  }
+}

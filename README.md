@@ -6,9 +6,7 @@ This [workshop](https://www.meetup.com/vue-bangalore/events/256686922/) aims to 
 ## For Host
 
 ```
-npm add --global vue-keynote
-npm add --global @keynote/cli
-npm add --global vue
+npm install
 keynote dev Presentation.vue
 keynote build Presentation.vue
 cd dist
