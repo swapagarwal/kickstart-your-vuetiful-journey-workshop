@@ -1,0 +1,8 @@
+{
+    "version": 2,
+    "name": "kickstart-your-vuetiful-journey",
+    "alias": "kickstart-your-vuetiful-journey",
+    "builds": [
+        { "src": "package.json", "use": "@now/static-build" }
+    ]
+}

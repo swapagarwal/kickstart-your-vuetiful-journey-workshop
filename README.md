@@ -7,11 +7,8 @@ This [workshop](https://www.meetup.com/vue-bangalore/events/256686922/) aims to 
 
 ```
 npm install
-keynote dev Presentation.vue
-keynote build Presentation.vue
-cd dist
-now
-(now alias https://dist-57xk6vwb1.now.sh kickstart-your-vuetiful-journey)
+npm run dev
+npm run build
 ```
 
 ## For Attendees

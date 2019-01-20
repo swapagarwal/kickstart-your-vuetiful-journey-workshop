@@ -4,7 +4,9 @@
   "description": "A first-day guide to Vue.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "keynote dev Presentation.vue",
+    "build": "keynote build Presentation.vue",
+    "now-build": "npm run build"
   },
   "repository": {
     "type": "git",
