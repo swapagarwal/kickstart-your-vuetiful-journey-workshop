@@ -8,7 +8,7 @@ This [workshop](https://www.meetup.com/vue-bangalore/events/256686922/) aims to 
 ```
 npm install
 npm run dev
-npm run build
+now && now alias
 ```
 
 ## For Attendees
